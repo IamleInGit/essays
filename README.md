@@ -18,6 +18,7 @@
 | [低功耗设计的四条主线](posts/low-power-design.md) | 嵌入式 / 功耗 |
 | [《代码整洁之道》读书笔记](posts/clean-code-notes.md) | 读书 / 工程习惯 |
 | [《感悟设计》读书笔记](posts/ganwu-design-notes.md) | 读书 / 硬件设计 |
+| [《Yocto 项目实战教程》读书笔记（一）：bootloader](posts/yocto-bootloader-notes.md) | 读书 / 嵌入式 Linux |
 
 ### 写作约定
 
@@ -51,3 +52,4 @@ All posts are currently written in Chinese. A short English summary will be adde
 | 低功耗设计的四条主线 — Four threads of low-power design | Embedded / power |
 | 《代码整洁之道》读书笔记 — Notes on *Clean Code* | Books / craft |
 | 《感悟设计》读书笔记 — Notes on *Design Insights* | Books / hardware |
+| 《Yocto 项目实战教程》读书笔记（一）— Notes on *Yocto Project in Practice*, part 1: bootloader | Books / embedded Linux |
