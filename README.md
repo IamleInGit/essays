@@ -9,6 +9,8 @@
 把这些年写在各处的零碎想法收拢到一处：低功耗、调试、读书，以及一些还没想明白的问题。
 不是教程，更像一本工作笔记——如果正好对你有用，那更好。
 
+> **关于电子书**：本仓库只包含我自己写的读书笔记和一两句引用，**不提供任何受版权保护的书籍文件**。书里的内容有价值，请购买正版支持作者和译者。
+
 ### 文章
 
 | 日期 | 标题 | 主题 |
@@ -25,6 +27,7 @@
 - 顺序固定：我遇到的问题 → 怎么解决 → 下次怎么避免
 - 引用书里的原话不超过一两句，其余用自己的话
 - 涉及公司项目的一律脱敏，只写「某 MCU」「某个场景」，不写型号、客户、内部代号
+- **不放电子书文件**，只写自己的理解，引用不超过一两句
 - 不追求篇幅，能删就删
 
 ### 新增一篇
@@ -36,6 +39,8 @@
 ## English
 
 Notes on embedded engineering, debugging and books, collected from scattered places — not tutorials, more like a working notebook.
+
+**No copyrighted book files here.** Only my own notes and short quotations; if a book is worth reading, please buy it.
 
 All posts are currently written in Chinese. A short English summary will be added at the top of new posts when they cover something generally useful.
 
