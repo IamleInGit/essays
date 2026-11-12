@@ -13,11 +13,11 @@
 
 ### 文章
 
-| 日期 | 标题 | 主题 |
-| :--- | :--- | :--- |
-| 2026-11 | [低功耗设计的四条主线](posts/low-power-design.md) | 嵌入式 / 功耗 |
-| 2026-11 | [《代码整洁之道》读书笔记](posts/clean-code-notes.md) | 读书 / 工程习惯 |
-| 2026-11 | [《感悟设计》读书笔记](posts/ganwu-design-notes.md) | 读书 / 硬件设计 |
+| 标题 | 主题 |
+| :--- | :--- |
+| [低功耗设计的四条主线](posts/low-power-design.md) | 嵌入式 / 功耗 |
+| [《代码整洁之道》读书笔记](posts/clean-code-notes.md) | 读书 / 工程习惯 |
+| [《感悟设计》读书笔记](posts/ganwu-design-notes.md) | 读书 / 硬件设计 |
 
 ### 写作约定
 
@@ -46,8 +46,8 @@ All posts are currently written in Chinese. A short English summary will be adde
 
 ### Posts
 
-| Date | Title | Topic |
-| :--- | :--- | :--- |
-| 2026-11 | 低功耗设计的四条主线 — Four threads of low-power design | Embedded / power |
-| 2026-11 | 《代码整洁之道》读书笔记 — Notes on *Clean Code* | Books / craft |
-| 2026-11 | 《感悟设计》读书笔记 — Notes on *Design Insights* | Books / hardware |
+| Title | Topic |
+| :--- | :--- |
+| 低功耗设计的四条主线 — Four threads of low-power design | Embedded / power |
+| 《代码整洁之道》读书笔记 — Notes on *Clean Code* | Books / craft |
+| 《感悟设计》读书笔记 — Notes on *Design Insights* | Books / hardware |
