@@ -6,8 +6,7 @@
 
 ## 中文
 
-把这些年写在各处的零碎想法收拢到一处：低功耗、调试、读书，以及一些还没想明白的问题。
-不是教程，更像一本工作笔记——如果正好对你有用，那更好。
+这里记录我工作这两年的经验随笔，和一些书籍的读后感。
 
 > **关于电子书**：本仓库只包含我自己写的读书笔记和一两句引用，**不提供任何受版权保护的书籍文件**。书里的内容有价值，请购买正版支持作者和译者。
 
@@ -39,7 +38,7 @@
 
 ## English
 
-Notes on embedded engineering, debugging and books, collected from scattered places — not tutorials, more like a working notebook.
+Notes from my first two years at work, plus reflections on a few books.
 
 **No copyrighted book files here.** Only my own notes and short quotations; if a book is worth reading, please buy it.
 
